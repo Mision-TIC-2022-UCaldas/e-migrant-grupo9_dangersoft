@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "glE08GZyDko6h1cXDTXW10ullvNBH2ph7ucLmPsCsidVHCcEXeyb83/mkiuFfjwKY+t9rjwQAgaDnI3zKZp4kg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Asus\\Documents\\Hackaton\\Dangersoft\\e-migrant-grupo9_dangersoft\\IMC\\IMC.App.Persistencia\\IMC.App.Persistencia.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
