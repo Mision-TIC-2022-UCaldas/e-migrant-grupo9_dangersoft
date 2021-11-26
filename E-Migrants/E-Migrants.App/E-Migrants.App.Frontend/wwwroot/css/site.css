@@ -1,0 +1,157 @@
+﻿/* * Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification */
+/* for details on configuring this project to bundle and minify static web assets. */ */
+
+a.navbar-brand {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+
+}
+
+/* Provide sufficient contrast against white background */
+a {
+  color: #0366d6;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color:grey;
+  border-color:black;
+}
+
+.table-btn {
+  padding: 6px;
+  color: #fff;
+  background-color:grey;
+  /* border-color:black; */
+  border-color:black;
+}
+.btn-personalizado {
+  padding: 6 px;
+  /* font-weight: 800;
+  font-size: 14px; */
+  color: #ffffff;
+  background-color: #1883ba;
+  /* border-radius: 8px; */
+  border: 2px solid #0016b0;
+}
+.btn-personalizado:hover{
+  color: #1883ba;
+  background-color: #ffffff;
+}
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  font-size: 14px;
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.border-top {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy {
+  font-size: 1rem;
+  line-height: inherit;
+}
+.botones{
+  text-align: center;
+  padding: 15px;
+}
+
+.datos{
+  table-layout:fixed;
+
+}
+.tr{
+  background: linear-gradient(to bottom, rgba(0,0,0,0.1), rgba(0,0,0,0.5));
+  border: 2px solid black;
+
+  padding:10px 50px;
+  text-align: center;
+}
+.td{
+  border: 2px solid black;
+  text-align: justify;
+  padding: 8px;
+
+  /* border-radius: 10px; */
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+
+}
+
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+  /* background-image: url(https://th.bing.com/th/id/R.61f5af1c6851faed50f51dc635250068?rik=Sw4DaswNN5asDg&riu=http%3a%2f%2f2.bp.blogspot.com%2f-03eXSoChDBE%2fUoFcByRm8qI%2fAAAAAAAAAEI%2fXIxGfidHQcI%2fs1600%2fhuellas_sdd.gif&ehk=sE11QJXA5duFIIeOMdwv668XO9hYUkoV0vXRF9qxzjE%3d&risl=&pid=ImgRaw&r=0); */
+  /* background-image: url(https://images.vexels.com/media/users/3/202044/isolated/preview/651fff530d4deddc530316c4172b7c9b-huellas-de-perro-coraz--n-planas-by-vexels.png); */
+  /* background-image: url(https://media.istockphoto.com/vectors/dog-bone-paw-seamless-pattern-vector-pet-footprint-french-bulldog-vector-id1138135871); */
+  background-repeat:no-repeat;
+  /* background: linear-gradient(-45deg, blue 0%, blue 27%, transparent 27%), linear-gradient(45deg, blue 0%, blue 26%, red 26%); */
+  /* background-position-x:center; 
+  background-position-y:initial; */
+  background-size: 23rem;
+  background-position: right;
+  /* background-position-x: 12%; */
+  /* background-color:beige; */
+}
+.h1{
+  text-align: center;
+}
+/* .text-center{
+  color:black;
+} */
+.form{
+  width: 100%;
+  max-width: 400px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color:bisque;
+  border:  2px dashed black;
+  padding: 12px;
+}
+.confirmacion-text{
+  background-color: rgb(209, 228, 245);
+  color: red;
+  padding: 1rem;
+  margin: 5px;
+  border-radius: 7px;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px; /* Vertically center the text there */
+  background-color:gray;
+  opacity: 0,1;
+}
+.container{
+  color:black;
+}

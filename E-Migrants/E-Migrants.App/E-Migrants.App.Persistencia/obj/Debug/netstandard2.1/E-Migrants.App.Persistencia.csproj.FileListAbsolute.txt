@@ -1,0 +1,12 @@
+C:\Users\Asus\Documents\Hackaton\Dangersoft\e-migrant-grupo9_dangersoft\E-Migrants\E-Migrants.App\E-Migrants.App.Persistencia\obj\Debug\netstandard2.1\E-Migrants.App.Persistencia.csprojAssemblyReference.cache
+C:\Users\Asus\Documents\Hackaton\Dangersoft\e-migrant-grupo9_dangersoft\E-Migrants\E-Migrants.App\E-Migrants.App.Persistencia\obj\Debug\netstandard2.1\E-Migrants.App.Persistencia.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\Hackaton\Dangersoft\e-migrant-grupo9_dangersoft\E-Migrants\E-Migrants.App\E-Migrants.App.Persistencia\obj\Debug\netstandard2.1\E-Migrants.App.Persistencia.AssemblyInfo.cs
+C:\Users\Asus\Documents\Hackaton\Dangersoft\e-migrant-grupo9_dangersoft\E-Migrants\E-Migrants.App\E-Migrants.App.Persistencia\obj\Debug\netstandard2.1\E-Migrants.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\Hackaton\Dangersoft\e-migrant-grupo9_dangersoft\E-Migrants\E-Migrants.App\E-Migrants.App.Persistencia\bin\Debug\netstandard2.1\E-Migrants.App.Persistencia.deps.json
+C:\Users\Asus\Documents\Hackaton\Dangersoft\e-migrant-grupo9_dangersoft\E-Migrants\E-Migrants.App\E-Migrants.App.Persistencia\bin\Debug\netstandard2.1\E-Migrants.App.Persistencia.dll
+C:\Users\Asus\Documents\Hackaton\Dangersoft\e-migrant-grupo9_dangersoft\E-Migrants\E-Migrants.App\E-Migrants.App.Persistencia\bin\Debug\netstandard2.1\E-Migrants.App.Persistencia.pdb
+C:\Users\Asus\Documents\Hackaton\Dangersoft\e-migrant-grupo9_dangersoft\E-Migrants\E-Migrants.App\E-Migrants.App.Persistencia\bin\Debug\netstandard2.1\E-Migrants.App.Dominio.dll
+C:\Users\Asus\Documents\Hackaton\Dangersoft\e-migrant-grupo9_dangersoft\E-Migrants\E-Migrants.App\E-Migrants.App.Persistencia\bin\Debug\netstandard2.1\E-Migrants.App.Dominio.pdb
+C:\Users\Asus\Documents\Hackaton\Dangersoft\e-migrant-grupo9_dangersoft\E-Migrants\E-Migrants.App\E-Migrants.App.Persistencia\obj\Debug\netstandard2.1\E-Migrants.App.Persistencia.csproj.CopyComplete
+C:\Users\Asus\Documents\Hackaton\Dangersoft\e-migrant-grupo9_dangersoft\E-Migrants\E-Migrants.App\E-Migrants.App.Persistencia\obj\Debug\netstandard2.1\E-Migrants.App.Persistencia.dll
+C:\Users\Asus\Documents\Hackaton\Dangersoft\e-migrant-grupo9_dangersoft\E-Migrants\E-Migrants.App\E-Migrants.App.Persistencia\obj\Debug\netstandard2.1\E-Migrants.App.Persistencia.pdb

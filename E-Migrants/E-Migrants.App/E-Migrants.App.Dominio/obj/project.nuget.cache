@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "f0vc9TKkT9fDaEV0q/AtekLiCH5H5Jz96x73hczHZ4qHjavW8A/hxFUXQmFSF9nZ0CqiWLJIGjLlR2qqnEvNpw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Asus\\Documents\\Hackaton\\Dangersoft\\e-migrant-grupo9_dangersoft\\E-Migrants\\E-Migrants.App\\E-Migrants.App.Dominio\\E-Migrants.App.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

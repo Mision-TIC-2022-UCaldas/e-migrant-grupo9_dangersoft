@@ -1,0 +1,9 @@
+C:\Users\Asus\Documents\Hackaton\Dangersoft\e-migrant-grupo9_dangersoft\E-Migrants\E-Migrants.App\E-Migrants.App.Dominio\obj\Debug\netstandard2.1\E-Migrants.App.Dominio.csprojAssemblyReference.cache
+C:\Users\Asus\Documents\Hackaton\Dangersoft\e-migrant-grupo9_dangersoft\E-Migrants\E-Migrants.App\E-Migrants.App.Dominio\obj\Debug\netstandard2.1\E-Migrants.App.Dominio.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\Hackaton\Dangersoft\e-migrant-grupo9_dangersoft\E-Migrants\E-Migrants.App\E-Migrants.App.Dominio\obj\Debug\netstandard2.1\E-Migrants.App.Dominio.AssemblyInfo.cs
+C:\Users\Asus\Documents\Hackaton\Dangersoft\e-migrant-grupo9_dangersoft\E-Migrants\E-Migrants.App\E-Migrants.App.Dominio\obj\Debug\netstandard2.1\E-Migrants.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\Hackaton\Dangersoft\e-migrant-grupo9_dangersoft\E-Migrants\E-Migrants.App\E-Migrants.App.Dominio\bin\Debug\netstandard2.1\E-Migrants.App.Dominio.deps.json
+C:\Users\Asus\Documents\Hackaton\Dangersoft\e-migrant-grupo9_dangersoft\E-Migrants\E-Migrants.App\E-Migrants.App.Dominio\bin\Debug\netstandard2.1\E-Migrants.App.Dominio.dll
+C:\Users\Asus\Documents\Hackaton\Dangersoft\e-migrant-grupo9_dangersoft\E-Migrants\E-Migrants.App\E-Migrants.App.Dominio\bin\Debug\netstandard2.1\E-Migrants.App.Dominio.pdb
+C:\Users\Asus\Documents\Hackaton\Dangersoft\e-migrant-grupo9_dangersoft\E-Migrants\E-Migrants.App\E-Migrants.App.Dominio\obj\Debug\netstandard2.1\E-Migrants.App.Dominio.dll
+C:\Users\Asus\Documents\Hackaton\Dangersoft\e-migrant-grupo9_dangersoft\E-Migrants\E-Migrants.App\E-Migrants.App.Dominio\obj\Debug\netstandard2.1\E-Migrants.App.Dominio.pdb
