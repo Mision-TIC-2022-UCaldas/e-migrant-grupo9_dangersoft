@@ -1,0 +1,41 @@
+@page
+@model E_Migrants.App.Frontend.Pages.ListModel
+@{
+}
+<h1>Listado Migrantes</h1>
+<table>
+    <tr>
+        <th class="tr">Nombre</th>
+        <th class="tr">Apellidos </th>
+        <th class="tr">Numero Documento</th>
+        <th class="tr">Pais de Origen</th>
+        <th class="tr">Email</th>
+        <th class="tr">Ciudad</th>
+        <th class="tr">Situacion Laboral</th>
+    </tr>
+    @foreach (var Migrante in Model.Migrante)
+    {
+        <tr class="datos">
+            <td class="td">@Migrante.nombre</td>
+            <td class="td">@Migrante.apellidos</td>
+            <td class="td">@Migrante.NumeroDocumento</td>
+            <td class="td">@Migrante.PaisdeOrigen</td>
+            <td class="td">@Migrante.Email</td>
+            <td class="td">@Migrante.Ciudad</td>
+            <td class="td">@Migrante.SituacionLaboral</td>
+
+            <td class="botones">
+                <a class="btn btn-primary table-btn" asp-page="./Details" asp-route-MigranteID="@Migrante.Id">
+                    <i class="fas fa-info-circle fa-lg" aria-hidden="true"></i>
+                </a>
+            </td>
+            <td class="botones">
+                <a class="btn btn-primary table-btn" asp-page="./Delete" asp-route-MigranteID="@Migrante.Id">
+                    <i class="fas fa-trash-alt fa-lg" aria-hidden="true" style="color: white;"> </i>
+                </a>
+            </td>
+        </tr>
+    }
+</table><br>
+
+<a asp-page="./FormMigrante" class="btn table-btn"><b>registrar Migrante</b> </a>

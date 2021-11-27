@@ -1,0 +1,46 @@
+@page
+@model E_Migrants.App.Frontend.Pages.DetailsModel
+@{}
+<h2><b>Detalles del Migrante : @Model.Migrante.nombre </b></h2><br>
+<table>
+    <tr>
+        <th class="tr">Id</th>
+        <th class="tr">Nombre</th>
+        <th class="tr">Apellidos </th>
+        <th class="tr">Tipo Documento</th>
+        <th class="tr">Numero Documento</th>
+        <th class="tr">Pais de Origen</th>
+        <th class="tr">Fecha de Nacimiento</th>
+        <th class="tr">Email</th>
+        <th class="tr">Teléfono</th>
+        <th class="tr">Direccion Actual</th>
+        <th class="tr">Ciudad</th>
+        <th class="tr">Situacion Laboral</th>
+    </tr>
+    <tr class="datos">
+        <td class="td"> @Model.Migrante.Id</td>
+
+        <td class="td">@Model.Migrante.nombre</td>
+
+        <td class="td"> @Model.Migrante.apellidos</td>
+
+        <td class="td">@Model.Migrante.TipoDocumento</td>
+
+        <td class="td"> @Model.Migrante.NumeroDocumento</td>
+
+        <td class="td">@Model.Migrante.PaisdeOrigen</td>
+        <td class="td"> @Model.Migrante.FechaDeNacimiento</td>
+
+        <td class="td">@Model.Migrante.Email</td>
+
+        <td class="td"> @Model.Migrante.Telefono</td>
+
+        <td class="td">@Model.Migrante.DireccionActual</td>
+        <td class="td">@Model.Migrante.Ciudad</td>
+        <td class="td">@Model.Migrante.SituacionLaboral</td>
+
+    </tr>
+</table><br>
+
+<a class="btn table-btn" asp-page="./List"> <b> Migrantes</b> </a>
+<a class="btn btn-primary table-btn" asp-page="./Edit" asp-route-MigranteID="@Model.Migrante.Id"><i class="fas fa-edit fa-lg" aria-hidden="true" style="color: black;"> </i></a>

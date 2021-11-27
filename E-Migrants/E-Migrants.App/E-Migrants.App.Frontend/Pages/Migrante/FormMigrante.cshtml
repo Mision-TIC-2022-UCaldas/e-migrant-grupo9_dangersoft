@@ -59,7 +59,8 @@
         <input asp-for="Migrante.SituacionLaboral" class="form-control">
         <span class="text-danger" asp-validation-for="Migrante.SituacionLaboral"></span>
     </div>
-    <button type="submit" class=" btn-personalizado "><b>Add </b> </button><br>
-    <a class="btn table-btn" asp-page="./List"> <b> Lista Migrantes</b>  </a>
+    <button type="submit" class=" btn-personalizado " onclick="alert('Migrante Creado')" value="Agregar"><b>Add </b> </button><br>
+    <a class="btn table-btn" asp-page="./List" > <b> Lista Migrantes</b>  </a>
     </form>
+    
 }
