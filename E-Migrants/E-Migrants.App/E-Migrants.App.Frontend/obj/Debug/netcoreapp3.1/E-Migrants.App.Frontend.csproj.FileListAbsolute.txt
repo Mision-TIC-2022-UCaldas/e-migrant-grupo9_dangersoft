@@ -82,3 +82,4 @@ C:\Users\Asus\Documents\Hackaton\Dangersoft\e-migrant-grupo9_dangersoft\E-Migran
 C:\Users\Asus\Documents\Hackaton\Dangersoft\e-migrant-grupo9_dangersoft\E-Migrants\E-Migrants.App\E-Migrants.App.Frontend\bin\Debug\netcoreapp3.1\E-Migrants.App.Persistencia.pdb
 C:\Users\Asus\Documents\Hackaton\Dangersoft\e-migrant-grupo9_dangersoft\E-Migrants\E-Migrants.App\E-Migrants.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Migrante\Details.cshtml.g.cs
 C:\Users\Asus\Documents\Hackaton\Dangersoft\e-migrant-grupo9_dangersoft\E-Migrants\E-Migrants.App\E-Migrants.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Migrante\List.cshtml.g.cs
+C:\Users\Asus\Documents\Hackaton\Dangersoft\e-migrant-grupo9_dangersoft\E-Migrants\E-Migrants.App\E-Migrants.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Migrante\Edit.cshtml.g.cs
